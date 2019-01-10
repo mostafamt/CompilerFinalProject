@@ -1,6 +1,10 @@
 # Compiler Final Project
 
 ## Triangle Language
+<p align="center"> 
+<img src="https://github.com/mostafamt/MyRepo/blob/master/index.png">
+</p>
+
 This is a semster compiler final project .<br>
 Professor Dr : Mohammed-Al-Amer .<br>
 Fourth year computers & Systems Engineering , Al-Azhar Univ .<br>
