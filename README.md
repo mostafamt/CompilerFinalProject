@@ -1,4 +1,4 @@
-# compiler_final_project
+# Compiler Final Project
 
 ## Triangle Language
 This is a semster compiler final project .<br>
