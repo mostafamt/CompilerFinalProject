@@ -11,6 +11,6 @@ Three Students are :
 
 | ID | Studen Name |
 | --- | --- |
-| 82 | Mostafa Kamel Saied |
-| git diff | Amr Al-saeid Al-saeid Kahla |
-| git diff | Mahrous Masoud zyan |
+| 82 | Mostafa Kamel Saied <br> مصطفي كامل سعيد|
+| git diff | Amr Al-saeid Al-saeid <br>عمرو السعيد السعيد  |
+| git diff | Mahrous Masoud Muhammed<br>محروس مسعود محمد |
