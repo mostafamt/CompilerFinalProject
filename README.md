@@ -2,7 +2,7 @@
 
 ## Triangle Language
 <p align="center"> 
-<img src="https://github.com/mostafamt/MyRepo/blob/master/index.png">
+<img src="https://github.com/mostafamt/MyRepo/blob/master/Danieledesantis-Playstation-Flat-Playstation-triangle-dark.ico">
 </p>
 
 This is a semster compiler final project .<br>
